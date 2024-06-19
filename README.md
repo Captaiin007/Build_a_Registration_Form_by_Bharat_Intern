@@ -36,7 +36,7 @@ This repository contains a registration form built using Node.js, Express.js, an
 
 ### Usage
 
-1. Access the registration form at 'http://localhost:5500/pages/index.html'
+1. Access the registration form at `http://localhost:5500/pages/index.html`
 2. Fill in your details and submit the form
 3. Your data will be stored in the MongoDB database
 
